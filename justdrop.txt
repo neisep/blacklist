@@ -519,3 +519,4 @@
 212.70.149.88 ; fcking bot
 45.9.20.16 ; fcking bot
 45.133.1.252 ; fcking bot
+194.61.24.154 ; LOGIN authentication failed: authentication failure

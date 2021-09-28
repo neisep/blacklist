@@ -1,2 +1,2 @@
 31.130.184.32 ; brute force
-23.148.145.0/32 ; pretty bad hosting entire range is listed in abusedbip.com
+23.148.145.0-23.148.145.255 ; pretty bad hosting entire range is listed in abusedbip.com

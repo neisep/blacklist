@@ -524,3 +524,4 @@
 37.0.10.88 ; LOGIN authentication failed: authentication failure
 203.159.80.219 ; LOGIN authentication failed: authentication failure
 31.130.184.201
+125.19.17.20 ; makes connection outbound on port 25 i guess Microsoft is trying to send some telementry stuff.

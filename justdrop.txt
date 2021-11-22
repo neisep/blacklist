@@ -527,3 +527,5 @@
 125.19.17.20 ; found this seems to be a spammer from india.
 35.227.207.240 ; incoming.telemetry.mozilla.org some telementry servers i do not want to send data to.
 95.216.34.149 ; bot sweeper
+109.237.96.0/24 ; mail relay spammer
+109.237.97.0/24 ; mail relay spammer

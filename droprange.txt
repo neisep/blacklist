@@ -2,4 +2,4 @@
 109.237.97.0/24 ; mail relay spammer
 23.148.145.0/24 ; spammer
 167.248.133.0/24 ; spammer 
-194.150.215.0/24 Russian spammer
+194.150.215.0/24 ; Russian spammer

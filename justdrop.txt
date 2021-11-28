@@ -15,3 +15,4 @@
 125.19.17.20 ; found this seems to be a spammer from india.
 35.227.207.240 ; incoming.telemetry.mozilla.org some telementry servers i do not want to send data to.
 95.216.34.149 ; bot sweeper
+107.175.247.181 : spammer

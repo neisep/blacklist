@@ -16,3 +16,5 @@
 35.227.207.240 ; incoming.telemetry.mozilla.org some telementry servers i do not want to send data to.
 95.216.34.149 ; bot sweeper
 107.175.247.181 : spammer
+65.181.123.117 ; spammer
+91.103.252.115 ; spammer

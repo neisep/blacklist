@@ -4,3 +4,9 @@
 167.248.133.0/24 ; spammer 
 194.150.215.0/24 ; Russian spammer
 109.237.98.248/24 ; Another Russian spammer but using datacenter in London
+162.142.125.0/24 ; censys
+167.94.138.0/24 ; censys
+167.94.145.0/24 ; censys
+167.94.146.0/24 ; censys
+167.248.133.0/24 ; censys
+192.35.168.0/23 ; censys

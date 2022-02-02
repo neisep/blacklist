@@ -36,3 +36,6 @@
 198.20.69.74 ; shodan.io
 188.138.9.50 ; shodan.io
 92.63.197.16 ; ddos
+45.11.27.161 ; smtp mail relay spammer
+45.134.23.241 ; smtp mail relay spammer
+45.134.23.249 ; smtp mail relay spammer

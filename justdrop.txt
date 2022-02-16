@@ -39,3 +39,4 @@
 45.11.27.161 ; smtp mail relay spammer
 45.134.23.241 ; smtp mail relay spammer
 45.134.23.249 ; smtp mail relay spammer
+44.194.248.1 ; smtp mail relay spammer

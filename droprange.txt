@@ -22,3 +22,13 @@
 184.105.247.192/26 ; shadow
 141.212.0.0/16 ; shadow
 144.86.173.0/24 ; PAN
+109.237.100.0/24 ; russian spammer
+109.237.101.0/24 ; russian spammer
+109.237.102.0/24 ; russian spammer
+109.237.103.0/24 ; russian spammer
+109.237.103.0/24 ; russian spammer
+94.26.229.0/24 ; russian spammer
+194.58.0.0/17 ; russian spammer
+185.137.0.0/17 ; russian spammer
+5.188.119.0/24 ; russian spammer
+45.133.245.0/24 ; russian spammer

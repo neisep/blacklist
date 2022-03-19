@@ -40,3 +40,8 @@
 45.134.23.241 ; smtp mail relay spammer
 45.134.23.249 ; smtp mail relay spammer
 44.194.248.1 ; smtp mail relay spammer
+212.192.241.123 ; smtp spammer
+41.142.86.143 ; smtp spammer
+77.247.110.12 ; smtp spammer
+114.124.161.98 ; smtp spammer
+2.56.57.107 ; smtp spammer

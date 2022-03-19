@@ -25,3 +25,4 @@
 5.188.119.0/24 ; russian spammer
 45.133.245.0/24 ; russian spammer
 109.237.0.0/16 ; block a broader range to prevent russian bots.
+191.209.10.0/23 ; brazilian spammer

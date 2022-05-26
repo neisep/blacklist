@@ -31,3 +31,4 @@
 194.110.134.0/24 ; spammer
 85.204.116.0/24 ; spammer
 89.32.41.128/25 ; spammer
+89.32.41.0/25 ; block hostmaze.com 89.32.41.0 - 89.32.41.127 smtp spammer

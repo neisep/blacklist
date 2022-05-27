@@ -64,3 +64,4 @@
 176.111.173.26 ; spmmaer
 188.209.203.223 ; spammer
 103.160.201.49 ; spammer
+45.60.115.212 ; fck you spammer

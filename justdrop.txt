@@ -66,5 +66,6 @@
 103.160.201.49 ; spammer
 45.60.115.212 ; fck you spammer
 192.241.216.92 ; bot
-94.102.61.50 ; bad actor
+94.102.61.50 ; scanner
 162.142.125.130 ; scanner
+94.102.61.54 ; scanner

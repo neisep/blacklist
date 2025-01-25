@@ -70,3 +70,4 @@
 94.102.61.50 ; scanner
 162.142.125.130 ; scanner
 94.102.61.54 ; scanner
+178.79.139.171 ; connection spammer

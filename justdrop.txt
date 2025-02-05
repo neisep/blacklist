@@ -71,3 +71,4 @@
 162.142.125.130 ; scanner
 94.102.61.54 ; scanner
 178.79.139.171 ; connection spammer
+172.233.58.223 ; connection spammer
